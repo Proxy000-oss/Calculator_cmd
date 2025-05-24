@@ -1,1 +1,1 @@
-# Calculator_cmd
+Я поприколу сделал калькулятор но в командном строке, делайте что хотите. (подробная инструкция в файле)/I made a calculator for fun, but in the command line, do whatever you want. (detailed instructions in the file)
